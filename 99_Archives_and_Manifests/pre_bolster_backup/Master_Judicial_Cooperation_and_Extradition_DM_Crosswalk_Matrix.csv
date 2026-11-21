@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+DM-JUD-01,Judicial Cooperation and Extradition,Colonial plantation legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-JUD-02,Judicial Cooperation and Extradition,Hurricane Maria and climate resilience costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-JUD-03,Judicial Cooperation and Extradition,Sovereign debt and recovery financing pressure,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-JUD-04,Judicial Cooperation and Extradition,Colonial plantation legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-JUD-05,Judicial Cooperation and Extradition,Hurricane Maria and climate resilience costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

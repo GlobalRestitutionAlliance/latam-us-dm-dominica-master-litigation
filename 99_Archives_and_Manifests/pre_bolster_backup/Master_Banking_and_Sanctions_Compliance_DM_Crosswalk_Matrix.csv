@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+DM-BAN-01,Banking and Sanctions Compliance,Colonial plantation legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-BAN-02,Banking and Sanctions Compliance,Hurricane Maria and climate resilience costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-BAN-03,Banking and Sanctions Compliance,Sovereign debt and recovery financing pressure,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-BAN-04,Banking and Sanctions Compliance,Colonial plantation legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DM-BAN-05,Banking and Sanctions Compliance,Hurricane Maria and climate resilience costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
