@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,Library of Congress - Dominica,https://www.loc.gov/search/?q=dominica+united+states,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,State Dept - Dominica,https://www.state.gov/countries-areas/dominica/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,UN Digital Library - Dominica,https://digitallibrary.un.org/search?ln=en&p=dominica,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,World Bank - Dominica,https://data.worldbank.org/country/dominica,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,UNHCR - Dominica,https://www.unhcr.org/countries/dominica,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,HRW - Americas,https://www.hrw.org/americas,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,OAS - Dominica,https://www.oas.org/en/member_states/member_state.asp?sCode=DMI,OAS,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,CARICOM - Dominica,https://caricom.org/country_profiles/dominica/,CARICOM,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,NARA - Dominica,https://catalog.archives.gov/search?q=dominica,NARA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,ICRC - Americas,https://www.icrc.org/en/where-we-work/americas,ICRC,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
